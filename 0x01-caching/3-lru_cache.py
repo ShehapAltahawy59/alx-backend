@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Least Recently Used caching module.
 """
